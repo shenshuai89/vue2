@@ -1,0 +1,222 @@
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+ul, li {
+    padding: 0;
+    margin: 0;
+}
+
+#shoppingCar .title-wrap {
+    margin-top: 50px;
+    font: 20px/1.5 a;
+    font-weight: 400;
+    text-align: center;
+}
+
+#shoppingCar .title-wrap .title {
+    width: 15.000000000000002%;
+    text-align: center;
+}
+
+#shoppingCar .title-wrap .line-v {
+    width: 41%;
+    height: 1px;
+    background-color: #ccc;
+    margin-top: -4px;
+    vertical-align: middle;
+}
+
+#shoppingCar .detial-wrap {
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    border-bottom: 1px solid #ccc;
+    line-height: 50px;
+}
+
+.cart-item-head ul {
+    width: 100%;
+    height: 54px;
+    padding: 0;
+    margin: 0;
+}
+
+.cart-item-head li {
+    color: #f9f9f9;
+    background: #585858;
+    float: left;
+    list-style: none;
+}
+
+.cart-item-head ul li:nth-child(1) {
+    width: 52%;
+}
+
+.cart-item-head ul li:nth-child(2), .cart-item-head ul li:nth-child(3), .cart-item-head ul li:nth-child(4),
+.cart-item-head ul li:nth-child(5) {
+    width: 12%;
+}
+
+.detial-wrap ul {
+    overflow: auto;
+}
+
+.detial-wrap ul li {
+    float: left;
+    width: 100%;
+    font-size: 16px;
+    border-bottom: 1px solid #e9e9e9;
+}
+
+.goods-detial-wrap {
+    display: inline-block;
+    width: 52%;
+    float: left;
+    padding: 36px 0;
+}
+
+.unitprice, .buy-num, .amount, .icon {
+    display: inline-block;
+    width: 12%;
+    float: left;
+    margin-top: 42px;
+}
+
+.detial-wrap ul li > div {
+    min-height: 72px;
+    vertical-align: top;
+    line-height: 72px;
+}
+
+.goods-detial {
+    overflow: auto;
+}
+
+.good-img {
+    padding: 21px 30px;
+}
+
+.good-img img {
+    width: 78px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #999999;
+}
+
+.good-text {
+    margin: 16px 0 10px;
+    text-align: left;
+}
+
+.name {
+    padding: 0;
+    margin: 0;
+    line-height: 24px;
+}
+
+.gifts {
+    margin-top: 35px;
+    font-size: 12px;
+}
+
+.gifts dt {
+    float: left;
+}
+
+.gifts dd {
+    color: #9d9d9d;
+    float: left;
+    padding-right: 10px;
+}
+
+.checkbox-wrap {
+    padding: 36px 20px;
+}
+
+.checkbox {
+    display: block;
+
+}
+
+.unitprice {
+    margin-top: 42px;
+}
+
+.amount{
+    color: #d1273b;
+}
+.icon-delete {
+    font-size: 21px;
+}
+
+.countbox {
+    width: 40px;
+    background: #ededed;
+    margin:0 8px;
+    text-align: center;
+    border: 0;
+}
+
+.stock {
+    width: 32px;
+    height: 24px;
+    font-size: 12px;
+    text-align: left;
+    line-height: 24px;
+    color: #aaa;
+}
+
+.danger{
+    display: inline-block;
+    width: 300px;
+    height:62px;
+    line-height:62px;
+    font-size: 24px;
+    background: #d1434a;
+    border: 0;
+    color:#fff;
+}
+.danger:hover,.danger:focus{
+    color: #ffffff;
+}
+.disabled{
+    background: #ccc;
+    cursor: not-allowed;
+}
+footer{
+    overflow: auto;
+    text-align: center;
+}
+.total-check-wrap{
+    width:50%;
+}
+.check-text{
+    padding-top:20px;
+    line-height: 72px;
+    text-align: left;
+}
+.checked-all{
+    margin-left:32px;
+    color: #EE7A23;
+}
+.unchecked-all{
+    margin-left:15px;
+}
+.checkout{
+    margin-top:20px;
+}
+.amount-all{
+    color: #d1273b;
+    font-size: 30px;
+    margin:0 30px;
+    padding-top:10px;
+}
+.name-all{
+    padding-top:20px;
+}
