@@ -8,3 +8,13 @@
 
 ## [vueBootstrap](https://github.com/shenshuai89/vue2/tree/master/vueBootstrap)
 > 使用bootstrap插件进行页面布局
+
+## [vueWithWebpack](https://github.com/shenshuai89/vue2/tree/master/vueWithWebpack)
+> 使用webpack配置vue开发环境
+
+## [vuex](https://github.com/shenshuai89/vue2/tree/master/vuex)
+> vuex同一个对象的状态管理对象
+
+## [vue组件间通信](https://github.com/shenshuai89/vue2/tree/master/vue%E7%BB%84%E4%BB%B6%E9%97%B4%E9%80%9A%E4%BF%A1)
+> vue父子组件通信，兄弟组件间通信
+
