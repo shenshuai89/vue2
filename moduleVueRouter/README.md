@@ -27,9 +27,9 @@ export default new Router({
 ```
 导入router/index.js
 
-![](https://github.com/shenshuai89/moduleVueRouter/blob/master/static/20170424111424.jpg)
-![](https://github.com/shenshuai89/moduleVueRouter/blob/master/static/201704241115091111111.jpg)
-![](https://github.com/shenshuai89/moduleVueRouter/blob/master/static/2017042411145522222222.jpg)
+![](https://github.com/shenshuai89/vue2/blob/master/moduleVueRouter/static/20170424111424.jpg)
+![](https://github.com/shenshuai89/vue2/blob/master/moduleVueRouter/static/201704241115091111111.jpg)
+![](https://github.com/shenshuai89/vue2/blob/master/moduleVueRouter/static/2017042411145522222222.jpg)
 
 ## Build Setup
 
