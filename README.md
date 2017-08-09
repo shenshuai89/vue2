@@ -6,6 +6,9 @@
 ## [vue-deskweb](https://github.com/shenshuai89/vue2/tree/master/vue-deskweb)
 > 使用vue开发桌面web
 
+## [vue-router](https://github.com/shenshuai89/vue2/tree/master/vue-router)
+> router路由的使用
+
 ## [vue-shoppingCar](https://github.com/shenshuai89/vue2/tree/master/vue-shoppingCar)
 > 慕课网上购物车实例
 
