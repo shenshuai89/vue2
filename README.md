@@ -3,6 +3,9 @@
 ## [moduleVueRouter](https://github.com/shenshuai89/vue2/tree/master/moduleVueRouter)
 > 模块化路由，有时候，在路由非常多的情况下，如何对路由进行模块化拆分？
 
+## [pos](https://github.com/shenshuai89/vue2/tree/master/pos)
+> 点单添加删除，axio数据
+
 ## [vue-deskweb](https://github.com/shenshuai89/vue2/tree/master/vue-deskweb)
 > 使用vue开发桌面web
 
