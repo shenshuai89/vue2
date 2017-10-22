@@ -1,5 +1,8 @@
 # vue小示例集合
 
+## [carousel](https://github.com/shenshuai89/vue2/tree/master/carousel)
+> 使用vue重写的三种形式图片轮播
+
 ## [moduleVueRouter](https://github.com/shenshuai89/vue2/tree/master/moduleVueRouter)
 > 模块化路由，有时候，在路由非常多的情况下，如何对路由进行模块化拆分？
 
